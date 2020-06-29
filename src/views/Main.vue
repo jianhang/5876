@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="advertising">广告</div>
+    <div class="advertising">人生自古谁无死</div>
     <Header></Header>
     <Swiper></Swiper>
     <Explore></Explore>
